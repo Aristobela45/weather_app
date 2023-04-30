@@ -1,0 +1,57 @@
+
+/* bakcground color*/
+body {
+    color: rgb(145, 234, 188);
+    background-color: #699600;
+}
+
+.card {
+    background: #b3a20e;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+.middle {
+    /*background-image: url('https://unsplash.com/photos/OJ02cQHePds'):*/
+    background-color: #6a8e15;
+}
+
+.dataInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+input {
+    margin: 3vh;
+}
+
+button {
+    margin: 3vh;
+    margin-left: 0;
+}
+/* top header*/
+.top {
+    background-color: rgb(54, 180, 234);
+    padding: 3vh;
+}
+
+.middle {
+    margin: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3vh;
+    border-bottom: rgb(255, 255, 255) solid;
+}
+/* words color */
+.dataInfo {
+    color: rgb(7, 49, 57);
+    margin: 3vh;
+    padding: 3vh;
+}
